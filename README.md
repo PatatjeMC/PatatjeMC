@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noah!</h1>
-<p align="center">I'm a 16 year old boy from the Netherlands. I mostly code spigot plugins but occasionally some other things.</p>
+<p align="center">I'm a 17 year old boy from the Netherlands. I mostly code spigot plugins but occasionally some other things.</p>
 <div align="center">
   <a href="https://github.com/PatatjeMC">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatatjeMC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
