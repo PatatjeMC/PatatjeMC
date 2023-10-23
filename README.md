@@ -7,5 +7,5 @@
 </div>
 <br/>
 <h1 align="center">Ways to contact me:</h1>
-<p align="center"><strong>E-Mail:</strong> <a href="mailto:patatje@razeempire.net">patatje@razeempire.net</a></p>
-<p align="center"><strong>Discord:</strong> patatje#0879</p>
+<p align="center"><strong>E-Mail:</strong> <a href="mailto:contact@patatje.dev">contact@patatje.dev</a></p>
+<p align="center"><strong>Discord:</strong> patatje</p>
